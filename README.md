@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hey there! I'm [Your Name]
 
-<!--
-**Realrubr2/Realrubr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social)](https://github.com/Realrubr2)
 
-Here are some ideas to get you started:
+🚀 I'm a passionate developer who loves turning ideas into reality with code.  
+🌱 Currently learning: Grafana and docker, to load test an internal application 
+💬 Ask me about: [Tech topics you're comfortable with]  
+📫 How to reach me:   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ramon-iroomo-167117322)]
+## ⚡ GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Realrubr2 GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide_border=true)
+
+---
+
+⭐️ From [Realrubr2](https://github.com/Realrubr2)
