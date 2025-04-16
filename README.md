@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Ramon
 
 ![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social)](https://github.com/Realrubr2)
+[![GitHub followers](https://img.shields.io/github/followers/Realrubr2?label=Follow&style=social)](https://github.com/Realrubr2)
 
 🚀 I'm a passionate developer who loves turning ideas into reality with code.  
 🌱 Currently learning: Grafana and docker, to load test an internal application 
