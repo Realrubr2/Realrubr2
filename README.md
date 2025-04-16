@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Ramon
 
-![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=Realrubr2&color=blueviolet&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/Realrubr2?label=Follow&style=social)](https://github.com/Realrubr2)
 
 🚀 I'm a passionate developer who loves turning ideas into reality with code.  
