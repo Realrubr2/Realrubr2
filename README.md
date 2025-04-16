@@ -5,8 +5,8 @@
 
 🚀 I'm a passionate developer who loves turning ideas into reality with code.  
 🌱 Currently learning: Grafana and docker, to load test an internal application 
-💬 Ask me about: [Tech topics you're comfortable with]  
-📫 How to reach me:   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ramon-iroomo-167117322)]
+💬 Ask me about: prometheus and cc1101's
+📫 How to reach me:   [![Email](https://img.shields.io/badge/email-yourname%40domain.com-blue?style=flat-square&logo=gmail)](mailto:ramon.iroomo19@gmail.com)
 ## ⚡ GitHub Stats
 
 ![Realrubr2 GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true)
