@@ -14,8 +14,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Realrubr2&layout=compact&theme=radical&hide_border=true)
 
 ## CodeWars stats
+
 when i have the time i do some codewars. you can spar me!
+
 ![Codewars](https://github.r2v.ch/codewars?user=Realrubr2&stroke=COLOR)
+
 ---
 
 ⭐️ From [Realrubr2](https://github.com/Realrubr2)
